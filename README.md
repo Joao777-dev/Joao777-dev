@@ -12,21 +12,13 @@
 
 ###
 
-<div data-importer="image" align="center">
+<img data-importer="image" align="left" height="200" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif"  />
+
+###
+
+<div data-importer="image" align="left">
   <img data-importer="image" height="200" src="https://i.pinimg.com/736x/28/72/a4/2872a46f1ac88cb4098e8476349730f4.jpg"  />
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<img data-importer="image" align="left" height="200" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif"  />
 
 ###
 
